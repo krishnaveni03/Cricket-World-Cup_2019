@@ -1,4 +1,4 @@
-# Cricket-World-Cup_2019
+
 # Cricket World Cup 2019
 
 This project focuses on analyzing and visualizing data from the ICC Cricket World Cup 2019.
